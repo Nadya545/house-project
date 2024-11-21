@@ -1,0 +1,38 @@
+.our_story,
+.story_info_title,
+.service_name,
+.btn a,
+.title_box,
+.get_btn {
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+.newsletter_text,
+.submit {
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+.comment,
+.nav_info a,
+.ul_1 a,
+.ul_2 a,
+.ul_3 a,
+.email {
+  font-family: "Open Sans";
+  font-weight: 500;
+}
+.scroll,
+.story_info_text,
+.service_text,
+.text_box {
+  font-family: "Open Sans";
+  font-weight: 400;
+}
+.get_text,
+.company,
+.text_box_footer,
+.contact_us,
+.address,
+.text_end {
+  font-family: "Open Sans";
+}
