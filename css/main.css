@@ -293,7 +293,7 @@ a {
 }
 
 .container2 {
-  background-image: url("C:/Users/Mihail/Desktop/test-house/house-project/img/pic_background.png");
+  background-image: url("../img/pic_background.png");
   background-size: cover;
   width: 100%;
   background-position: center;
